@@ -1,0 +1,6 @@
+{
+  "name": "WATCH",
+  "description": "WATCH - Advanced All-in-One Video & Music Player for Android with Hardware Accelerated Playback, Vault, and Media Management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
